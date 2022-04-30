@@ -1,0 +1,38 @@
+body {
+	background-color: rgb(32, 33, 36) ;
+	font-family: 'Oxygen', serif;
+}
+#google {
+	color: white;
+	font-size: 6em;
+	text-align: center;
+	margin-bottom: 20px;
+	border-color: white;
+	border-width: 1px;
+}
+#gg_search_container {
+	text-align: center;
+}
+#gg_search_btn, #lucky_btn {
+	background-color: rgb(48, 49, 52);
+	color: white;
+	padding: 10px 15px;
+	margin-right: 20px;
+	border-radius: 5px;
+	border-color: white;
+	border-width: 1px;
+}
+#btn_container {
+	text-align: center;
+}
+#gg_search {
+	width: 60%;
+	height: 30px;
+	border-radius: 25px;
+	background-color: rgb(32, 33, 36);
+	color: white;
+	padding-left: 10px;
+}
+a:link {
+	text-decoration: none;
+}
